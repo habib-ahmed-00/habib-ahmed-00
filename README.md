@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @habib-ahmed-00
+- 👀 I’m interested in so many programming languages
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me Hahmed.y2k@gmail.com
