@@ -89,8 +89,9 @@ Languages and Tools🛠:
 ---
 
 <br/>
+  <details>
 <summary> Connect with me🤝: </summary>  
-<details>
+
 <br/>
 
 <a href="https://t.me/Dave_bhandari">
