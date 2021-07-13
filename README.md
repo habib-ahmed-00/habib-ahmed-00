@@ -31,8 +31,8 @@
 
 <hr>
 
-# Languages and Tools &nbsp;🛠 &nbsp:
-<details>
+# Languages and Tools &nbsp;🛠 &nbsp;:
+
 <br/>
     <table>
         <tr>
@@ -173,7 +173,6 @@
         </tr>
   </table>
 <br>
-</details>
 
 <details>
     <summary> Connect with me 
