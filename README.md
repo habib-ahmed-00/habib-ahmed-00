@@ -1,7 +1,9 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
+[![ProfileBanner]<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
+I am Computer Engineering student.<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
