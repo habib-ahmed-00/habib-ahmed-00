@@ -32,11 +32,11 @@
 <hr>
 
 ## Languages and Tools &nbsp;🛠 &nbsp;:
-<pre>$
+<pre>
 <br>
     <table>
         <tr>
-        <td align="center" width="96">
+        <td align="center" width="10">
             <a>
             <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"/>
             </a>
