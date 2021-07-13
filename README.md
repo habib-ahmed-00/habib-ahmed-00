@@ -14,8 +14,6 @@
 </p>
 </p>
 
-
-<hr>
 <p align="center">
   <em>
     This is ME, Akash chowrasia, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
@@ -25,6 +23,8 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
+  <br>
+<hr>
 
 <details>
 <summary>
