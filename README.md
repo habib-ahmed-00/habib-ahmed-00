@@ -28,9 +28,10 @@
 
 
 <summary>
+   <details>
 Languages and Tools🛠:
 </summary>
-  <details>
+ 
 <br>
   <table>
     <tr>
