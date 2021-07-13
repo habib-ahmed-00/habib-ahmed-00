@@ -31,10 +31,8 @@
 
 <hr>
 
+    <h2>Languages and Tools &nbsp;🛠 &nbsp;:</h2>
 <details>
-<!--     <summary> -->
-        Languages and Tools &nbsp;🛠 &nbsp;:
-<!--     </summary> -->
 <br/>
     <table>
         <tr>
