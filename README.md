@@ -100,7 +100,7 @@ Languages and Tools &nbsp;🛠 &nbsp;:
     <a href="mailto:hahmed.y2k@gmail.com"><img src="https://img.shields.io/badge/-hahmed.y2k@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     <a href="https://instagram.com/__laruuu_"><img src="https://img.shields.io/badge/-__laruuu__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-    <a href="https://twitter.com/__habibahmed__"><img src="https://img.shields.io/badge/-__habibahmed__-1DA1F2?style=for-thebadge&logo=twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/__habibahmed__"><img src="https://img.shields.io/badge/-habibahmed-1DA1F2?style=for-thebadge&logo=twitter&logoColor=white"/></a>
 </p>
 
 </details>
