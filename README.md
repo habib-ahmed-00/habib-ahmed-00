@@ -30,9 +30,9 @@
 </p>
 
 <hr>
-<summary>
-### Languages and Tools &nbsp;🛠 &nbsp;:
-</summary>
+
+## Languages and Tools &nbsp;🛠 &nbsp;:
+<pre>$
 <br>
     <table>
         <tr>
@@ -173,7 +173,7 @@
         </tr>
   </table>
 <br>
-
+</pre>
 <details>
     <summary> Connect with me 
         <a target="_blank">
