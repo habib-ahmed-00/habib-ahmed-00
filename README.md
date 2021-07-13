@@ -83,7 +83,7 @@ Languages and Tools &nbsp;🛠 &nbsp;:
       </td>
       <td align="center" width="96">
         <a>
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40"/>
+          <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40"/>
         </a>
         <br>MySQL
       </td>
