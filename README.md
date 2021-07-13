@@ -92,7 +92,7 @@ Languages and Tools🛠:
   </details>
 ---
 
-
+<br/>
 <summary> Connect with me🤝: </summary>  
 <details>
 <br/>
