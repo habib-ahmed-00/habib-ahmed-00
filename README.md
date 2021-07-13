@@ -89,7 +89,7 @@ Languages and Tools🛠:
   </tr>
 </table>
 <br>
-
+  </details>
 ---
 
 <details>
