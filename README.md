@@ -71,7 +71,7 @@ Languages and Tools &nbsp;🛠 &nbsp;:
       </td>
       <td align="center" width="96">
         <a>
-          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+          <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
         </a>
         <br>Python
       </td>
