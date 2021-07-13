@@ -31,7 +31,7 @@
 Languages and Tools &nbsp;🛠 &nbsp;:
 </summary>
  
-<br>
+<br/>
   <table>
     <tr>
       <td align="center" width="96">
