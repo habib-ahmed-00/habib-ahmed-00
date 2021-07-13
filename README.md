@@ -24,7 +24,7 @@
   </em> 
   <br>
   <br>
-<hr>
+
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
