@@ -1,7 +1,7 @@
 ### Hi there, I'm Habib - aka [Laru][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thecodebox.tech/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_habibahmed_)
+[![Website](https://img.shields.io/website?label=thecodebox.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thecodebox.tech/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_habibahmed_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_habibahmed_)
 
 ## I'm a Student, Designer, Developer, and Teacher!!
 
