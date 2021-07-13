@@ -43,6 +43,6 @@
 ---
 
 [website]: https://thecodebox.tech/
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/_habibahmed_
+[instagram]: https://instagram.com/__laruuu_
 [linkedin]: https://www.linkedin.com/in/habibul-bashar-ahmed-a8700520a/
