@@ -116,11 +116,6 @@ Languages and Tools &nbsp;🛠 &nbsp;:
 
 
 
-
-### Github Activity ✔:
-
-
-
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
