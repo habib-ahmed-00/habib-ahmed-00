@@ -87,7 +87,6 @@ Languages and Tools🛠:
   <br>
   </details>
 
-<br/>
   <details>
 <summary> Connect with me🤝: </summary>  
 
