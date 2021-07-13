@@ -28,13 +28,13 @@
 
 ---
 
-<details>
+
 <summary>
 Languages and Tools🛠:
 </summary>
   <br/>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+<details>
 <br>
 <table>
   <tr>
