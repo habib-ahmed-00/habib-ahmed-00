@@ -32,45 +32,36 @@
 <hr>
 
 ## Languages and Tools &nbsp;🛠 &nbsp;:
-<pre>
 <br>
     <table>
         <tr>
-        <td align="center" width="10">
+            <td align="center" width="100">
+                <img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50">
+            </td>
+        <td align="center" width="96">
             <a>
-            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"/>
+            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="50"/>
             </a>
-            <br>HTML
         </td>
         <td align="center" width="96">
             <a>
-            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="50"/>
             </a>
-            <br>CSS
         </td>
         <td align="center" width="96">
             <a>
-            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+            <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50"/>
             </a>
-            <br>Javascript
         </td>
         <td align="center" width="96">
             <a>
-            <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40"/>
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50"/>
             </a>
-            <br>Bootstrap
         </td>
         <td align="center" width="96">
             <a>
-            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"/>
+            <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="50"/>
             </a>
-            <br>React
-        </td>
-        <td align="center" width="96">
-            <a>
-            <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="40"/>
-            </a>
-            <br>JQuery
         </td>
     </tr>
   </table>
@@ -79,27 +70,23 @@
         <tr>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40"/>
+                <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="50"/>
                 </a>
-                <br>Django
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50"/>
                 </a>
-                <br>Flask
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"/>
+                <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50"/>
                 </a>
-                <br>Express
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
+                <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50"/>
                 </a>
-                <br>NodeJS
             </td>
         </tr>
     </table>
@@ -108,21 +95,18 @@
         <tr>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
+                <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
                 </a>
-                <br>Python
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40"/>
+                <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50"/>
                 </a>
-                <br>PHP
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50"/>
                 </a>
-                <br>C++
             </td>
         </tr>
     </table>
@@ -131,21 +115,18 @@
         <tr>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40"/>
+                <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50"/>
                 </a>
-                <br>MySQL
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
                 </a>
-                <br>Firebase
             </td> 
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/>
+                <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50"/>
                 </a>
-                <br>MongoDB
             </td> 
         </tr>
   </table>
@@ -156,24 +137,21 @@
                 <a>
                 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/>
                 </a>
-                <br>VSCode
             </td>
             <td align="center" width="96">
                 <a>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40"/>
                 </a>
-                <br>Pycharm
             </td> 
             <td align="center" width="96">
                 <a>
                 <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="40"/>
                 </a>
-                <br>Sublime
             </td> 
         </tr>
   </table>
 <br>
-</pre>
+
 <details>
     <summary> Connect with me 
         <a target="_blank">
