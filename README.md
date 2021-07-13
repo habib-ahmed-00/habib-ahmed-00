@@ -32,8 +32,8 @@
 <hr>
 
 ## Languages and Tools &nbsp;🛠 &nbsp;:
+    
 <br>
-<br/>
     <table>
         <tr>
         <td align="center" width="96">
