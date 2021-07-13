@@ -15,7 +15,7 @@
 </p>
 
 
-
+<hr>
 <p align="center">
   <em>
     This is ME, Akash chowrasia, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
