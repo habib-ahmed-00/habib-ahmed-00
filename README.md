@@ -26,9 +26,8 @@
   </em> 
   <br>
 
-
+<details>
 <summary>
-   <details>
 Languages and Tools🛠:
 </summary>
  
