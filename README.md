@@ -77,7 +77,7 @@ Languages and Tools &nbsp;🛠 &nbsp;:
       </td>
       <td align="center" width="96">
         <a>
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="40"/>
+          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" width="40"/>
         </a>
         <br>Flask
       </td>
