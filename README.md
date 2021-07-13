@@ -88,11 +88,11 @@ Languages and Tools &nbsp;🛠 &nbsp;:
   </details>
 
   <details>
-<h2> Connect with me &nbsp;:link: &nbsp;:
+<summary> Connect with me &nbsp;:
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
-</h2>  
+</summary>  
 
 <br/>
 <p align="center">
