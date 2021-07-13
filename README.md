@@ -31,7 +31,7 @@
 
 <hr>
 
-    <h2>Languages and Tools &nbsp;🛠 &nbsp;:</h2>
+###Languages and Tools &nbsp;🛠 &nbsp:
 <details>
 <br/>
     <table>
