@@ -95,12 +95,12 @@ Languages and Tools &nbsp;🛠 &nbsp;:
 
 <br/>
 <p align="center">
-    <a href="https://thecodebox.tech/"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://thecodebox.tech/"><img src="https://img.shields.io/badge/-thecodebox-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/habibul-bashar-ahmed-a8700520a/"><img src="https://img.shields.io/badge/-Habib%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:hahmed.y2k@gmail.com"><img src="https://img.shields.io/badge/-hahmed.y2k04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:hahmed.y2k@gmail.com"><img src="https://img.shields.io/badge/-hahmed.y2k@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     <a href="https://instagram.com/__laruuu_"><img src="https://img.shields.io/badge/-__laruuu__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-    <a href="https://twitter.com/__habibahmed__"><img src="https://img.shields.io/badge/-__habibahmed_04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+    <a href="https://twitter.com/__habibahmed__"><img src="https://img.shields.io/badge/-__habibahmed__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 </details>
