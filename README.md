@@ -3,7 +3,7 @@
 </p>
 <hr>
     <h1 align="center">< I'm Habib Ahmed > <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-    <h3 align="center">Developer | Designer | Student</h3>
+  <center><h3 align="center"> Developer | Designer | Student </h3></center>
 </p>
 
 <p align="center">
