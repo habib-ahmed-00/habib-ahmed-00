@@ -30,9 +30,9 @@
 </p>
 
 <hr>
-
+<summary>
 ### Languages and Tools &nbsp;🛠 &nbsp;:
-    
+</summary>
 <br>
     <table>
         <tr>
