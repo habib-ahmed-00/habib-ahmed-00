@@ -6,7 +6,7 @@
 ## I'm a Student, Designer, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play piano
 
 ### Connect with me:
