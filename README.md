@@ -88,7 +88,7 @@ Languages and Tools 🛠 :
   </details>
 
   <details>
-<summary> Connect with me 🤝:  </summary>  
+<summary> Connect with me �:link: :  </summary>  
 
 <br/>
 ### :link: &nbsp;Connect with me
