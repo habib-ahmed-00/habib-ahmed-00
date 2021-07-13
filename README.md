@@ -92,9 +92,9 @@ Languages and Tools🛠:
   </details>
 ---
 
-<details>
-<summary> Connect with me🤝: </summary>  
 
+<summary> Connect with me🤝: </summary>  
+<details>
 <br/>
 
 <a href="https://t.me/Dave_bhandari">
