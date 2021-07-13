@@ -20,7 +20,6 @@
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-<!--     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=habib-ahmed-00&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=habib-ahmed-00&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
