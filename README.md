@@ -32,7 +32,7 @@
 <hr>
 
 ## Languages and Tools &nbsp;🛠 &nbsp;:
-
+<br>
 <br/>
     <table>
         <tr>
