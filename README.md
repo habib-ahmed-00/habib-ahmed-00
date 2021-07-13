@@ -28,7 +28,7 @@
 
 <details>
 <summary>
-Languages and Tools 🛠 :
+Languages and Tools &nbsp;🛠 &nbsp;:
 </summary>
  
 <br>
@@ -88,7 +88,7 @@ Languages and Tools 🛠 :
   </details>
 
   <details>
-<summary> Connect with me �:link: :  </summary>  
+<summary> Connect with me &nbsp;:link: &nbsp;:  </summary>  
 
 <br/>
 ### :link: &nbsp;Connect with me
