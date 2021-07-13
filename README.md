@@ -58,6 +58,8 @@ Languages and Tools &nbsp;🛠 &nbsp;:
         <br>Bootstrap
       </td>
   </tr>
+  </table>
+  <table>
   <tr>
       <td align="center" width="96">
         <a>
@@ -72,43 +74,51 @@ Languages and Tools &nbsp;🛠 &nbsp;:
         </a>
         <br>firebase
       </td>
+  
       <td align="center" width="96">
         <a>
           <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
         </a>
         <br>Python
       </td>
+  
       <td align="center" width="96">
         <a>
           <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" width="40"/>
         </a>
         <br>Flask
       </td>
+  
       <td align="center" width="96">
         <a>
           <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40"/>
         </a>
         <br>MySQL
       </td>
+  
       <td align="center" width="96">
         <a>
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
         </a>
         <br>Photoshop
       </td> 
+  
       <td align="center" width="96">
         <a>
           <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/ps.svg" width="40"/>
         </a>
         <br>Photoshop
       </td> 
+  
       <td align="center" width="96">
         <a>
           <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/ps.svg" width="40"/>
         </a>
         <br>Photoshop
       </td> 
+  
     </tr>
+  
   </table>
   <br>
   </details>
