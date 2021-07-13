@@ -26,66 +26,65 @@
   </em> 
   <br>
 
----
-
 
 <summary>
 Languages and Tools🛠:
 </summary>
+  <details>
 <br>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/unity.svg" width="40"/>
-      </a>
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/ps.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td> 
-  </tr>
-</table>
-<br>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        </a>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+        </a>
+        <br>Javascript
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+        </a>
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/unity.svg" width="40"/>
+        </a>
+        <br>Unity
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/ps.svg" width="40"/>
+        </a>
+        <br>Photoshop
+      </td> 
+    </tr>
+  </table>
+  <br>
   </details>
 ---
 
