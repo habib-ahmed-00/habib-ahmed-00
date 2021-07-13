@@ -87,7 +87,7 @@
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" width="40"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40"/>
                 </a>
                 <br>Flask
             </td>
