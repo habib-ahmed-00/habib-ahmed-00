@@ -51,18 +51,21 @@ Languages and Tools &nbsp;🛠 &nbsp;:
         </a>
         <br>Javascript
       </td>
+       <td align="center" width="96">
+        <a>
+          <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40"/>
+        </a>
+        <br>Bootstrap
+      </td>
+  </tr>
+  <tr>
       <td align="center" width="96">
         <a>
           <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
         </a>
         <br>React
       </td>
-      <td align="center" width="96">
-        <a>
-          <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40"/>
-        </a>
-        <br>Bootstrap
-      </td>
+     
       <td align="center" width="96">
         <a>
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
