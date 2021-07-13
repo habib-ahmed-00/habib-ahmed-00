@@ -35,7 +35,7 @@ Languages and Tools &nbsp;🛠 &nbsp;:
     <tr>
       <td align="center" width="96">
         <a>
-          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"/>
         </a>
         <br>HTML
       </td>
@@ -59,7 +59,7 @@ Languages and Tools &nbsp;🛠 &nbsp;:
       </td>
       <td align="center" width="96">
         <a>
-          <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+          <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40"/>
         </a>
         <br>Bootstrap
       </td>
