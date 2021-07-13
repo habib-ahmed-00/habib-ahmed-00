@@ -32,9 +32,9 @@
 <hr>
 
 <details>
-    <summary>
+<!--     <summary> -->
         Languages and Tools &nbsp;🛠 &nbsp;:
-    </summary>
+<!--     </summary> -->
 <br/>
     <table>
         <tr>
