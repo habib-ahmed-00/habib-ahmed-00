@@ -33,33 +33,7 @@
 
 # Languages and Tools &nbsp;🛠 
 <br>
-    <table>
-        <tr>
-            <td align="center" width="100">
-                <img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50">
-            </td>
-        <td align="center" width="96">
-            <a>
-            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="50"/>
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a>
-            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="50"/>
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a>
-            <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50"/>
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a>
-            <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="50"/>
-            </a>
-        </td>
-    </tr>
-  </table>
+    
 <br/>
     <table>
         <tr>
@@ -81,31 +55,7 @@
         </tr>
     </table>
 <br>
-    <table>
-        <tr>
-            <td align="center" width="96">
-                <a>
-                <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
-                </a>
-            </td>
-            <td align="center" width="96">
-                <a>
-                <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50"/>
-                </a>
-            </td>
-            <td align="center" width="96">
-                <a>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50"/>
-                </a>
-            </td>
-            <td align="center" width="96">
-                <a>
-                <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/>        
-                </a>
-            </td>
-        </tr>
-    </table>
-<br>
+
     <table>
         <tr>
             <td align="center" width="96">
@@ -145,8 +95,60 @@
             </td> 
         </tr>
   </table>
+    <br>
+  <table>
+        <tr>
+            <td align="center" width="96">
+                <a>
+                <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
+                </a>
+            </td>
+            <td align="center" width="96">
+                <a>
+                <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50"/>
+                </a>
+            </td>
+            <td align="center" width="96">
+                <a>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50"/>
+                </a>
+            </td>
+            <td align="center" width="96">
+                <a>
+                <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/>        
+                </a>
+            </td>
+        </tr>
+    </table>
 <br>
-
+    <table>
+        <tr>
+            <td align="center" width="100">
+                <img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50">
+            </td>
+        <td align="center" width="96">
+            <a>
+            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a>
+            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a>
+            <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50"/>
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a>
+            <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="50"/>
+            </a>
+        </td>
+    </tr>
+  </table>
+<br>
 <details>
     <summary> Connect with me 
         <a target="_blank">
