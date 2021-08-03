@@ -33,7 +33,22 @@
 
 # Languages and Tools &nbsp;🛠 
 <br>
-    
+
+    <br>
+    <table>
+        <tr>
+            <td align="center" width="96">
+                <a>
+                <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50"/>
+                </a>
+            </td>
+            <td align="center" width="96">
+                <a>
+                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
+                </a>
+            </td>
+        </tr>
+  </table>
 <br/>
     <table>
         <tr>
@@ -54,21 +69,6 @@
             </td>
         </tr>
     </table>
-<br>
-    <table>
-        <tr>
-            <td align="center" width="96">
-                <a>
-                <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50"/>
-                </a>
-            </td>
-            <td align="center" width="96">
-                <a>
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
-                </a>
-            </td>
-        </tr>
-  </table>
 <br>
     <table>
         <tr>
