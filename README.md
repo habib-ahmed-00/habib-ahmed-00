@@ -33,8 +33,7 @@
 
 # Languages and Tools &nbsp;🛠 
 <br>
-
-    <br>
+<br>
     <table>
         <tr>
             <td align="center" width="96">
