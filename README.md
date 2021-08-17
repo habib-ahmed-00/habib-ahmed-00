@@ -69,7 +69,7 @@
         </tr>
     </table>
 <br>
-    <table>
+<!--     <table>
         <tr>
             <td align="center" width="96">
                 <a>
@@ -87,7 +87,7 @@
                 </a>
             </td> 
         </tr>
-  </table>
+  </table> -->
     <br>
   <table>
         <tr>
