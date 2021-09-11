@@ -98,7 +98,7 @@
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50"/>
+                    <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="50"/>
                 </a>
             </td>
             <td align="center" width="96">
@@ -122,11 +122,6 @@
         <td align="center" width="96">
             <a>
             <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="50"/>
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a>
-            <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="50"/>
             </a>
         </td>
         <td align="center" width="96">
