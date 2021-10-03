@@ -46,6 +46,11 @@
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
                 </a>
             </td>
+            <td align="center" width="96">
+                <a>
+                <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50"/>
+                </a>
+            </td>
         </tr>
   </table>
 <br/>
