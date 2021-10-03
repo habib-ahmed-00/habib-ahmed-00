@@ -139,6 +139,11 @@
             <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="50"/>
             </a>
         </td>
+        <td align="center" width="96">
+            <a>
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50"/>
+            </a>
+        </td>
     </tr>
   </table>
 <br>
