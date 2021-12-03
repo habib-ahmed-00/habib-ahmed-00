@@ -111,11 +111,6 @@
                 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50"/>
                 </a>
             </td>
-            <td align="center" width="96">
-                <a>
-                <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50"/>        
-                </a>
-            </td>
         </tr>
     </table>
 <br>
