@@ -108,7 +108,7 @@
             </td>
             <td align="center" width="96">
                 <a>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50"/>
+                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50"/>
                 </a>
             </td>
             <td align="center" width="96">
