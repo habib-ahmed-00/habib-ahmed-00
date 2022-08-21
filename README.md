@@ -149,7 +149,7 @@
 <br/>
     <p align="center">
         <a href="[PORTFOLIO](https://habibulbasharahmed.netlify.app/)">
-            <img src="https://img.shields.io/badge/-thecodebox-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+            <img src="https://img.shields.io/badge/-portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
         </a>
         <a href="https://www.linkedin.com/in/habibul-bashar-ahmed-a8700520a/">
             <img src="https://img.shields.io/badge/-Habib%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
