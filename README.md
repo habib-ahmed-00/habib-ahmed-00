@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
     </h1>
     <center>
-    <h3 align="center"> Developer | Designer | Student </h3>
+    <h3 align="center"> Developer | DevOps | WEB3 </h3>
     </center>
 
 
